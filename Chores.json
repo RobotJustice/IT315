@@ -3,31 +3,31 @@
 	[
 		{
 			"choreName": "Set Table",
-			"choreDescrip": "some text",
+			"choreDescrip": "Clean any mess and place plates, napkins, and flatware.",
 			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/set_table.png",
 			"choreVideo": ""
 		},
 		{
 			"choreName": "Make Bed",
-			"choreDescrip": "some text2",
+			"choreDescrip": "Place pillows nicely then straighten sheets, blankets, and comforter.",
 			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/make_bed.png",
 			"choreVideo": ""
 		},
 		{
 			"choreName": "Brush Teeth",
-			"choreDescrip": "Brushing them Teeth",
+			"choreDescrip": "Apply toothpaste to the bristles (not the sink, mirror, towel, floor, or your hair) and brush thoroughly.",
 			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/brush_teeth.png",
 			"choreVideo": ""
 		},
 		{
 			"choreName": "Clean Fridge",
-			"choreDescrip": "Clean that fridge",
+			"choreDescrip": "Remove outdated containers and wipe any messes.",
 			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/clean_fridge.png",
 			"choreVideo": ""
 		},
 		{
 			"choreName": "Load Dishwasher",
-			"choreDescrip": "",
+			"choreDescrip": "Empty the clean dishes in the dishwasher into the cupboards and then rinse and place all dirty dishes into the dishwasher.",
 			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/load_dishwasher.png",
 			"choreVideo": ""
 		}
