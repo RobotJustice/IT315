@@ -2,12 +2,34 @@
 	"chores":
 	[
 		{
-			"choreName": "Empty Dishwasher",
-			"choreDescrip": "some text"
+			"choreName": "Set Table",
+			"choreDescrip": "some text",
+			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/set_table.png",
+			"choreVideo": ""
 		},
 		{
 			"choreName": "Make Bed",
-			"choreDescrip": "some text2"
+			"choreDescrip": "some text2",
+			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/make_bed.png",
+			"choreVideo": ""
+		},
+		{
+			"choreName": "Brush Teeth",
+			"choreDescrip": "Brushing them Teeth",
+			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/brush_teeth.png",
+			"choreVideo": ""
+		},
+		{
+			"choreName": "Clean Fridge",
+			"choreDescrip": "Clean that fridge",
+			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/clean_fridge.png",
+			"choreVideo": ""
+		},
+		{
+			"choreName": "Load Dishwasher",
+			"choreDescrip": "",
+			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/load_dishwasher.png",
+			"choreVideo": ""
 		}
 	]
 }
