@@ -6,35 +6,40 @@
 			"choreDescrip": "Clean any mess and place plates, napkins, and flatware.",
 			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/set_table.png",
 			"choreIcon": "https://raw.githubusercontent.com/RobotJustice/IT315/main/set_table_icon.png",
-			"choreVideo": "https://www.youtube.com/watch?v=KoU1XiQJ1vo"
+			"choreVideo": "https://www.youtube.com/watch?v=KoU1XiQJ1vo",
+			"choreKey": "chore1"
 		},
 		{
 			"choreName": "Make Bed",
 			"choreDescrip": "Place pillows nicely then straighten sheets, blankets, and comforter.",
 			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/make_bed.png",
 			"choreIcon":  "https://raw.githubusercontent.com/RobotJustice/IT315/main/make_bed_icon.png",
-			"choreVideo": "https://www.youtube.com/watch?v=Du0M6yVjKlA"
+			"choreVideo": "https://www.youtube.com/watch?v=Du0M6yVjKlA",
+			"choreKey": "chore2"
 		},
 		{
 			"choreName": "Brush Teeth",
 			"choreDescrip": "Apply toothpaste to the bristles (not the sink, mirror, towel, floor, or your hair) and brush thoroughly.",
 			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/brush_teeth.png",
 			"choreIcon": "https://raw.githubusercontent.com/RobotJustice/IT315/main/brush_teeth_icon.png",
-			"choreVideo": "https://www.youtube.com/watch?v=CmZp1wdJAw4"
+			"choreVideo": "https://www.youtube.com/watch?v=CmZp1wdJAw4",
+			"choreKey": "chore3"
 		},
 		{
 			"choreName": "Clean Fridge",
 			"choreDescrip": "Remove outdated containers and wipe any messes.",
 			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/clean_fridge.png",
 			"choreIcon": "https://raw.githubusercontent.com/RobotJustice/IT315/main/clean_fridge_icon.png",
-			"choreVideo": "https://www.youtube.com/watch?v=n_O_b3Xfvkc"
+			"choreVideo": "https://www.youtube.com/watch?v=n_O_b3Xfvkc",
+			"choreKey": "chore4"
 		},
 		{
 			"choreName": "Load Dishwasher",
 			"choreDescrip": "Empty the clean dishes in the dishwasher into the cupboards and then rinse and place all dirty dishes into the dishwasher.",
 			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/load_dishwasher.png",
 			"choreIcon": "https://raw.githubusercontent.com/RobotJustice/IT315/main/load_dishwasher_icon.png",
-			"choreVideo": "https://www.youtube.com/watch?v=h4596rshLUk"
+			"choreVideo": "https://www.youtube.com/watch?v=h4596rshLUk",
+			"choreKey": "chore5"
 		}
 	]
 }
