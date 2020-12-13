@@ -1,0 +1,6 @@
+{
+"chores":[
+  {"choreName":"Empty Dishwasher", "choreDescrip":"some text"},
+  {"choreName":"Make Bed", "choreDescrip":"some text2"}
+]
+}
