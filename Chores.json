@@ -41,5 +41,10 @@
 			"choreVideo": "https://www.youtube.com/watch?v=h4596rshLUk",
 			"choreKey": "chore5"
 		}
+	],
+	[
+		{
+			"choreName": "Reset All Chores"
+		}
 	]
 }
