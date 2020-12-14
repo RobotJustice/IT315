@@ -43,7 +43,7 @@
 		},
 		{
 			"choreName": "Reset All Chores",
-			"choreDescrip": "Empty the clean dishes in the dishwasher into the cupboards and then rinse and place all dirty dishes into the dishwasher.",
+			"choreDescrip": "reset",
 			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/load_dishwasher.png",
 			"choreIcon": "https://raw.githubusercontent.com/RobotJustice/IT315/main/load_dishwasher_icon.png",
 			"choreVideo": "https://www.youtube.com/watch?v=h4596rshLUk",
