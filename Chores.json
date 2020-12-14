@@ -40,6 +40,9 @@
 			"choreIcon": "https://raw.githubusercontent.com/RobotJustice/IT315/main/load_dishwasher_icon.png",
 			"choreVideo": "https://www.youtube.com/watch?v=h4596rshLUk",
 			"choreKey": "chore5"
+		},
+		{
+			"choreName": "Reset All Chores"
 		}
 	]
 }
