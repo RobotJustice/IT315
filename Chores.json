@@ -42,7 +42,7 @@
 			"choreKey": "chore5"
 		},
 		{
-			"choreName": "Reset All Chores".
+			"choreName": "Reset All Chores",
 			"choreDescrip": "Empty the clean dishes in the dishwasher into the cupboards and then rinse and place all dirty dishes into the dishwasher.",
 			"choreImage": "https://raw.githubusercontent.com/RobotJustice/IT315/main/load_dishwasher.png",
 			"choreIcon": "https://raw.githubusercontent.com/RobotJustice/IT315/main/load_dishwasher_icon.png",
